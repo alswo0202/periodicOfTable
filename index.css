@@ -28,3 +28,10 @@ button {
     border: none;
     background: none;
 }
+.des {
+    font-size: 10px;
+    padding-left: 5px;
+    font-style: italic;
+    opacity: 200%;
+    color: lightslategray;
+}
