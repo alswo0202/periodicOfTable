@@ -1,0 +1,30 @@
+.element {
+    text-size-adjust: 100%;
+font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Oxygen-Sans,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue","Source Sans Pro",sans-serif;
+-webkit-box-direction: normal;
+box-sizing: inherit;
+border: 2px #5b434e solid;
+line-height: 1.15;
+text-align: center!important;
+font-size: .75em;
+width: 100%;
+table-layout: fixed;
+
+}
+body {
+text-size-adjust: 100%;
+font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Oxygen-Sans,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue","Source Sans Pro",sans-serif;
+font-size: 16px;
+color: #212121;
+line-height: 1.15;
+-webkit-box-direction: normal;
+box-sizing: inherit;
+padding-top: 1em;
+padding-bottom: 3em;
+
+}
+
+button {
+    border: none;
+    background: none;
+}
