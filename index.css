@@ -21,9 +21,16 @@ line-height: 1.15;
 box-sizing: inherit;
 padding-top: 1em;
 padding-bottom: 3em;
+margin-left: 200px;
+width: 80%s;
 
 }
-
+h1 {
+    margin-left: 200px;
+}
+html {
+    background-color: linen
+}
 button {
     border: none;
     background: none;
@@ -34,4 +41,23 @@ button {
     font-style: italic;
     opacity: 200%;
     color: lightslategray;
+}
+
+.showtext {
+    margin-left: 100px;
+    display: inline;
+}
+
+.im {
+    border-radius: 1mm;
+    border-style: solid;
+    border-color: lightgrey;
+
+}
+
+.showtexttext {
+    margin-left: 0;
+    font-style: italic;
+    color: lightslategrey;
+    font-size: 13px;
 }
